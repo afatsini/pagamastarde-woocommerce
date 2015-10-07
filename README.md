@@ -2,8 +2,7 @@
 
 1. Crea tu cuenta en Pagantis.com si aún no la tienes [desde aquí](https://bo.pagantis.com/users/sign_up)
 2. Descarga el módulo de [aquí](https://github.com/pagantis/pagamastarde-woocommerce/releases/download/1.0/pagantis.zip)
-3. Instala el módulo en tu prestashop, [esta guía](https://github.com/pagantis/pagamastarde-woocommerce/releases/download/1.0/GuiaUsuario.docx) lo explica paso a paso. En caso de dudas, consulta las [FAQs](https://github.com/pagantis/pagamastarde-woocommerce/releases/download/1.0/FAQ.docx)
-4. 
+3. Instala el módulo en tu Woocommerce, [esta guía](https://github.com/pagantis/pagamastarde-woocommerce/releases/download/1.0/GuiaUsuario.docx) lo explica paso a paso. En caso de dudas, consulta las [FAQs](https://github.com/pagantis/pagamastarde-woocommerce/releases/download/1.0/FAQ.docx)
 4. Configuralo con la información de tu cuenta que encontrarás en [el panel de gestión de Pagantis](https://bo.pagantis.com/api). Ten en cuenta que para hacer cobros reales deberás activar tu cuenta de Pagantis.
 5. MUY IMPORTANTE: Añade en [la sección de notificaciones HTTP](https://bo.pagantis.com/notifications) de Pagantis la URL de notificación de tu tienda. Puedes ver más abajo instrucciones para saber la URL de tu comercio.
 
@@ -28,6 +27,6 @@ Esto incluye las URLs de notificación. Confirma que tienes configuradas las URL
 
 ### Soporte
 
-Si tienes alguna duda o pregunta no tienes más que escribirnos un email a [soporte.tpv@pagantis.com]
+Si tienes alguna duda o pregunta no tienes más que escribirnos un email a [soporte@pagamastarde.com]
 
 

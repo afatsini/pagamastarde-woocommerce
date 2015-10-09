@@ -1,3 +1,5 @@
+# Módulo de Woocommerce 2.X para  pagantis.com
+
 ## Instrucciones de Instalación
 
 1. Crea tu cuenta en Pagantis.com si aún no la tienes [desde aquí](https://bo.pagantis.com/users/sign_up)

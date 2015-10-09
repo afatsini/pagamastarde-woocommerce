@@ -1,4 +1,5 @@
-# Módulo de Woocommerce para versión 2.X para  pagantis.com
+# Woocommerce Pagantis
+Módulo de Woocommerce para la versión 2.x para pagantis.com
 
 ## Instrucciones de Instalación
 
